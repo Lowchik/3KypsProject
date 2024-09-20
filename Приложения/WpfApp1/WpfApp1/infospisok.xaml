@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfApp1.infospisok"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+      Title="Panel" Height="1080" Width="1920" WindowState="Maximized">
+    <Grid Margin="0,2,0,-2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="929*"/>
+            <ColumnDefinition Width="31*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="Read" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="56,133,34,439" RenderTransformOrigin="0.492,0.577" MouseDoubleClick="DataGrid_MouseDoubleClick"  IsReadOnly="True"/>
+        <Label Content="id оборудования" HorizontalAlignment="Left" Margin="56,674,0,0" VerticalAlignment="Top" FontSize="22" Width="187"/>
+        <Label Content="Номер листа" HorizontalAlignment="Left" Margin="56,748,0,0" VerticalAlignment="Top" FontSize="22" Width="144"/>
+        <Label Content="Порт" HorizontalAlignment="Left" Margin="56,800,0,0" VerticalAlignment="Top" FontSize="22" Width="63"/>
+        <Label Content="Наименование &#xD;&#xA;оборудования" HorizontalAlignment="Left" Margin="56,850,0,0" VerticalAlignment="Top" FontSize="22" Width="174"/>
+        <Label Content="Серийный номер" HorizontalAlignment="Left" Margin="658,861,0,0" VerticalAlignment="Top" FontSize="22" Width="193"/>
+        <Label Content="Ip адресс" HorizontalAlignment="Left" Margin="658,811,0,0" VerticalAlignment="Top" FontSize="22" Width="107"/>
+        <Label Content="Инвентарный &#xD;&#xA;номер" HorizontalAlignment="Left" Margin="658,734,0,0" VerticalAlignment="Top" FontSize="22" Width="162"/>
+        <Label Content="MAC Адрес" HorizontalAlignment="Left" Margin="656,683,0,0" VerticalAlignment="Top" FontSize="22" Width="128"/>
+        <ComboBox x:Name="ComboBox" HorizontalAlignment="Left" Margin="1531,44,0,0" VerticalAlignment="Top" Width="288" Height="68" SelectionChanged="ComboBox_SelectionChanged" FontSize="20" RenderTransformOrigin="0.506,1.141"/>
+        <TextBox x:Name="t1" HorizontalAlignment="Left" Margin="294,683,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t2" HorizontalAlignment="Left" Margin="294,745,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t3" HorizontalAlignment="Left" Margin="294,803,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t4" HorizontalAlignment="Left" Margin="294,874,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t7" HorizontalAlignment="Left" Margin="845,814,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t6" HorizontalAlignment="Left" Margin="845,756,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t8" HorizontalAlignment="Left" Margin="845,868,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t5" HorizontalAlignment="Left" Margin="845,694,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" Height="30" IsReadOnly="True" FontSize="22"/>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="1650,933,0,0" VerticalAlignment="Top" Height="82" Width="234" Click="ButtonBack_Click" Grid.ColumnSpan="2"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="1437,59,0,0" VerticalAlignment="Top" Height="37" Width="94" Click="ButtonSearch_Click"/>
+        <Label Content="Адрес установки" HorizontalAlignment="Left" Margin="1214,685,0,0" VerticalAlignment="Top" FontSize="22" Width="185"/>
+        <Label Content="Место установки" HorizontalAlignment="Left" Margin="1214,748,0,0" VerticalAlignment="Top" FontSize="22" Width="188"/>
+        <Label Content="Точка подключения" HorizontalAlignment="Left" Margin="1214,798,0,0" VerticalAlignment="Top" FontSize="22" Width="221"/>
+        <TextBox x:Name="t9" HorizontalAlignment="Left" Margin="1483,694,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t10" HorizontalAlignment="Left" Margin="1483,753,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" Height="30" IsReadOnly="True" FontSize="22"/>
+        <TextBox x:Name="t11" HorizontalAlignment="Left" Margin="1483,809,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="341" Height="30" IsReadOnly="True" FontSize="22"/>
+
+    </Grid>
+</Window>

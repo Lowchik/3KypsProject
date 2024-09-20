@@ -1,0 +1,297 @@
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\Phone.g.cs
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\Phone.baml
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\source\repos\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\Администратор\Desktop\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Create.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Editing.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\infospisok.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Create.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Editing.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\infospisok.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

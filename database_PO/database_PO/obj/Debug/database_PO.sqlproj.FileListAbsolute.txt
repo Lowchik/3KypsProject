@@ -1,0 +1,46 @@
+C:\Users\Администратор\Desktop\database_PO\database_PO\bin\Debug\database_PO.dacpac
+C:\Users\Администратор\Desktop\database_PO\database_PO\bin\Debug\database_PO.dll
+C:\Users\Администратор\Desktop\database_PO\database_PO\bin\Debug\database_PO.pdb
+C:\Users\Администратор\Desktop\database_PO\database_PO\obj\Debug\database_PO.sqlproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\database_PO\database_PO\obj\Debug\Model.xml
+C:\Users\Администратор\Desktop\database_PO\database_PO\obj\Debug\refactor.xml
+C:\Users\Администратор\Desktop\database_PO\database_PO\obj\Debug\postdeploy.sql
+C:\Users\Администратор\Desktop\database_PO\database_PO\obj\Debug\predeploy.sql
+C:\Users\Администратор\Desktop\database_PO\database_PO\obj\Debug\database_PO.dll
+C:\Users\Администратор\Desktop\database_PO\database_PO\obj\Debug\database_PO.pdb
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dacpac
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dll
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.pdb
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.sqlproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\Model.xml
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\refactor.xml
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\postdeploy.sql
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\predeploy.sql
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.dll
+C:\Users\NikitinNM\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.pdb
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dacpac
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dll
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.pdb
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.sqlproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.dll
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dacpac
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dll
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.sqlproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\Model.xml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\refactor.xml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\postdeploy.sql
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\predeploy.sql
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.dll
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.pdb
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dacpac
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.dll
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\bin\Debug\database_PO.pdb
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.sqlproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\Model.xml
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\refactor.xml
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\postdeploy.sql
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\predeploy.sql
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.dll
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\database_PO\database_PO\obj\Debug\database_PO.pdb

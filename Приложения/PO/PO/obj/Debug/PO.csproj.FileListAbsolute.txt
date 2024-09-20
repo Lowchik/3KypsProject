@@ -1,0 +1,282 @@
+C:\Users\NikitinNM\Desktop\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\NikitinNM\Desktop\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\PO2\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\Администратор\Desktop\PO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\POO\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\Администратор\Desktop\Проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\1\Desktop\GitSSH\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.g.cs
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\CreateАpplications.baml
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\1\Desktop\GitSSH_Updated\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe.config
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.exe
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\bin\Debug\PO.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.g.resources
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.exe
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Интерфейсы\PO\PO\obj\Debug\PO.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe.config
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.pdb
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\App.g.cs
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.baml
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.g.resources
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.exe
+C:\Users\Администратор\Desktop\Почти готовый проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\маск и никита\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\3213\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\ыывыы\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe.config
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\bin\Debug\PO.pdb
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.AssemblyReference.cache
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.g.cs
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.g.cs
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.g.cs
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\App.g.cs
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.cache
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO_MarkupCompile.lref
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MainWindow.baml
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\MenuAbonenta.baml
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\Panel.baml
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.g.resources
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.Properties.Resources.resources
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.GenerateResource.cache
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.csproj.CoreCompileInputs.cache
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.exe
+C:\Users\NikitinNM\Desktop\Проект\app-projecttion\Results\Приложения\PO\PO\obj\Debug\PO.pdb

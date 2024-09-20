@@ -1,0 +1,19 @@
+SELECT Id_Abonent, FirstName ,LastName, Name_Service, Personal_account, Number_Of_phone, eMail, ContractNumber,TypeOfAgreement,Reason_for_termination_of_the_contract
+FROM Abonent 
+INNER JOIN Passport ON Passport.Id_Passport = Abonent.Passport 
+INNER JOIN Service ON Service.Id_Services = Abonent.Service
+
+
+Запрос для вывода данных из времени 
+SELECT FirstName,SecondName,LastName,Post,Number_Of_Phone,Application_place,Status,Type_of_problem, Description_of_problem, Date_of_create,Date_of_close
+FROM Applications
+INNER JOIN Staff ON Staff.Id_staff = Applications.Staff 
+INNER JOIN Abonent ON Abonent.Id_Abonent = Applications.Abonent 
+INNER JOIN Passport ON Passport.Id_Passport = Abonent.Passport 
+WHERE EXISTS (
+    SELECT 1
+    FROM Support_User
+     
+    WHERE Applications.Id_applications = Support_User.Id_Applications AND
+          Support_User.Time_Support = '12:00:00'
+)
